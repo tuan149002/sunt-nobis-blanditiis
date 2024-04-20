@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@tuan149002/sunt-nobis-blanditiis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,29 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/tuan149002/sunt-nobis-blanditiis.git"
   },
   "dependencies": {
+    "@tuan149002/assumenda-nemo-eveniet": "^1.0.0",
+    "@tuan149002/dolor-iste-perspiciatis": "^1.0.0",
+    "@tuan149002/dolores-ea-numquam": "^1.0.0",
+    "@tuan149002/eos-odit-distinctio": "^1.0.0",
+    "@tuan149002/excepturi-ex-sed": "^1.0.0",
+    "@tuan149002/expedita-nisi-ipsum": "^1.0.0",
+    "@tuan149002/id-cum-ullam": "^1.0.0",
+    "@tuan149002/ipsum-praesentium-doloribus": "^1.0.0",
+    "@tuan149002/ipsum-rerum-culpa": "^1.0.0",
+    "@tuan149002/itaque-voluptate-unde": "^1.0.0",
+    "@tuan149002/magni-dolor-quos": "^1.0.0",
+    "@tuan149002/maxime-repellendus-ullam": "^1.0.0",
+    "@tuan149002/nam-deserunt-distinctio": "^1.0.0",
+    "@tuan149002/natus-occaecati-vel": "^1.0.0",
+    "@tuan149002/nulla-exercitationem-perspiciatis": "^1.0.0",
+    "@tuan149002/omnis-dolore-quas": "^1.0.0",
+    "@tuan149002/omnis-quidem-rerum": "^1.0.0",
+    "@tuan149002/optio-eos-maiores": "^1.0.0",
+    "@tuan149002/rem-maiores-ut": "^1.0.0",
+    "@tuan149002/reprehenderit-possimus-esse": "^1.0.0",
+    "@tuan149002/tempora-pariatur-nisi": "^1.0.0"
   }
 }
